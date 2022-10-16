@@ -1,4 +1,4 @@
-// Source https://github.com/sadteams/bot-md
+// Source https://github.com/xyntix/Elaina-MultiDevice/
 const delay = time => new Promise(res => setTimeout(res, time))
 let handler = async(m, { conn }) => {
 	conn.p = conn.p ? conn.p : {}
