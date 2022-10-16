@@ -60,7 +60,7 @@ global.psaweria = 'https://saweria.co/reeyaboat' //Link Saweriamu Kalo Nggada Ke
 
 /*============== NOMOR ==============*/
 global.nomorbot = '16028253490' //Nomor Bot
-global.nomorown = '6289612228750' //Nomor Owner
+global.nomorown = '16028253490' //Nomor Owner
 global.namebot = 'Secret BOT' //Nama Bot
 global.nameown = '𝑅𝑒𝑒𝓎𝒶 𝓍 𝑅𝑒𝓃 𝒰𝓌𝒰' // Nama Owner
 
