@@ -370,9 +370,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `Secret -  BOT⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
+global.stickpack = 'Secret -  BOT'
+global.stickauth = `⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = 'Secret - BOT'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Reeya x Ren Uwu <3 '
 
 global.multiplier = 40 // The higher, The harder levelup
